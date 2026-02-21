@@ -33,7 +33,7 @@ tableau-paper-company-profitability/
 - Customer segmentation
 
 ## 🔗 Live Dashboard
-👉 [View on Tableau Public]((https://public.tableau.com/views/tableau-paper-company-profitability/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View on Tableau Public](https://public.tableau.com/views/tableau-paper-company-profitability/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📬 Connect With Me
 [LinkedIn](www.linkedin.com/in/omar-moussa-a9121523b)
